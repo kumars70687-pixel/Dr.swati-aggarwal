@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Swati Aggarwal Clinic - General Physician & Diabetology",
+  "description": "Official website of Dr. Swati Aggarwal, MBBS, Fellowship in Diabetes. General Physician, Diabetologist & Vaccination Centre in Sector 12 Dwarka, New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
